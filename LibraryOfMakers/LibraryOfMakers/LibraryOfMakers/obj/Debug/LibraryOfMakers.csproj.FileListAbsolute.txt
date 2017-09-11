@@ -1,0 +1,24 @@
+c:\users\idoy\documents\visual studio 2017\Projects\pascaglassia\LibraryOfMakers\LibraryOfMakers\bin\Debug\LibraryOfMakers.exe.config
+c:\users\idoy\documents\visual studio 2017\Projects\pascaglassia\LibraryOfMakers\LibraryOfMakers\bin\Debug\LibraryOfMakers.exe
+c:\users\idoy\documents\visual studio 2017\Projects\pascaglassia\LibraryOfMakers\LibraryOfMakers\bin\Debug\LibraryOfMakers.pdb
+c:\users\idoy\documents\visual studio 2017\Projects\pascaglassia\LibraryOfMakers\LibraryOfMakers\obj\Debug\LibraryOfMakers.Properties.Resources.resources
+c:\users\idoy\documents\visual studio 2017\Projects\pascaglassia\LibraryOfMakers\LibraryOfMakers\obj\Debug\LibraryOfMakers.csproj.GenerateResource.Cache
+c:\users\idoy\documents\visual studio 2017\Projects\pascaglassia\LibraryOfMakers\LibraryOfMakers\obj\Debug\LibraryOfMakers.exe
+c:\users\idoy\documents\visual studio 2017\Projects\pascaglassia\LibraryOfMakers\LibraryOfMakers\obj\Debug\LibraryOfMakers.pdb
+c:\users\idoy\documents\visual studio 2017\Projects\pascaglassia\LibraryOfMakers\LibraryOfMakers\obj\Debug\LibraryOfMakers.Form1.resources
+c:\users\idoy\documents\visual studio 2017\Projects\pascaglassia\LibraryOfMakers\LibraryOfMakers\obj\Debug\LibraryOfMakers.Insert.resources
+C:\Users\idoy\Documents\Visual Studio 2017\Projects\pascaglassia\LibraryOfMakers\LibraryOfMakers\obj\Debug\LibraryOfMakers.LoginUser.resources
+C:\Users\idoy\Documents\Visual Studio 2017\Projects\pascaglassia\LibraryOfMakers\LibraryOfMakers\obj\Debug\LibraryOfMakers.csprojResolveAssemblyReference.cache
+C:\Users\idoy\Documents\Visual Studio 2017\Projects\pascaglassia\LibraryOfMakers\LibraryOfMakers\obj\Debug\LibraryOfMakers.GUESS.resources
+E:\dekstop\LibraryOfMakers\LibraryOfMakers\LibraryOfMakers\bin\Debug\LibraryOfMakers.exe.config
+E:\dekstop\LibraryOfMakers\LibraryOfMakers\LibraryOfMakers\bin\Debug\LibraryOfMakers.exe
+E:\dekstop\LibraryOfMakers\LibraryOfMakers\LibraryOfMakers\bin\Debug\LibraryOfMakers.pdb
+E:\dekstop\LibraryOfMakers\LibraryOfMakers\LibraryOfMakers\obj\Debug\LibraryOfMakers.csprojResolveAssemblyReference.cache
+E:\dekstop\LibraryOfMakers\LibraryOfMakers\LibraryOfMakers\obj\Debug\LibraryOfMakers.Form1.resources
+E:\dekstop\LibraryOfMakers\LibraryOfMakers\LibraryOfMakers\obj\Debug\LibraryOfMakers.GUESS.resources
+E:\dekstop\LibraryOfMakers\LibraryOfMakers\LibraryOfMakers\obj\Debug\LibraryOfMakers.Insert.resources
+E:\dekstop\LibraryOfMakers\LibraryOfMakers\LibraryOfMakers\obj\Debug\LibraryOfMakers.LoginUser.resources
+E:\dekstop\LibraryOfMakers\LibraryOfMakers\LibraryOfMakers\obj\Debug\LibraryOfMakers.Properties.Resources.resources
+E:\dekstop\LibraryOfMakers\LibraryOfMakers\LibraryOfMakers\obj\Debug\LibraryOfMakers.csproj.GenerateResource.Cache
+E:\dekstop\LibraryOfMakers\LibraryOfMakers\LibraryOfMakers\obj\Debug\LibraryOfMakers.exe
+E:\dekstop\LibraryOfMakers\LibraryOfMakers\LibraryOfMakers\obj\Debug\LibraryOfMakers.pdb
